@@ -1,0 +1,13 @@
+C:\programming\Charisma Shooting\Charisma Shooting\bin\Debug\Charisma Shooting.exe.config
+C:\programming\Charisma Shooting\Charisma Shooting\bin\Debug\Charisma Shooting.exe
+C:\programming\Charisma Shooting\Charisma Shooting\bin\Debug\Charisma Shooting.pdb
+C:\programming\Charisma Shooting\Charisma Shooting\obj\Debug\Charisma Shooting.csproj.AssemblyReference.cache
+C:\programming\Charisma Shooting\Charisma Shooting\obj\Debug\Charisma Shooting.csproj.SuggestedBindingRedirects.cache
+C:\programming\Charisma Shooting\Charisma Shooting\obj\Debug\Charisma_Shooting.Form1.resources
+C:\programming\Charisma Shooting\Charisma Shooting\obj\Debug\Charisma_Shooting.Properties.Resources.resources
+C:\programming\Charisma Shooting\Charisma Shooting\obj\Debug\Charisma Shooting.csproj.GenerateResource.cache
+C:\programming\Charisma Shooting\Charisma Shooting\obj\Debug\Charisma Shooting.csproj.CoreCompileInputs.cache
+C:\programming\Charisma Shooting\Charisma Shooting\obj\Debug\Charisma Shooting.exe
+C:\programming\Charisma Shooting\Charisma Shooting\obj\Debug\Charisma Shooting.pdb
+C:\programming\Charisma Shooting\Charisma Shooting\obj\Debug\Charisma_Shooting.Form2.resources
+C:\programming\Charisma Shooting\Charisma Shooting\obj\Debug\Charisma_Shooting.Form3.resources
